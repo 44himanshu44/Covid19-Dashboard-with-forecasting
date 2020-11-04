@@ -1,7 +1,7 @@
 # Covid19 Dashboard with forecasting
 
 ### Covid19 Dashboard for India
-![Tensorboard Demo](https://github.com/44himanshu44/Neural-speech-synthesis/blob/master/docs/tensorboard_monitor.gif)
+
 <p align="center">
     <br>
     <img src="https://raw.githubusercontent.com/as-ideas/TransformerTTS/master/docs/transformer_logo.png" width="400"/>
