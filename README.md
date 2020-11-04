@@ -8,7 +8,7 @@
 
 <p align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/as-ideas/TransformerTTS/master/docs/transformer_logo.png" width="400"/>
+    <img src="https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/covid19.jpeg" width="400"/>
     <br>
 </p>
 
