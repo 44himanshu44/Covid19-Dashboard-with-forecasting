@@ -1,4 +1,4 @@
-# Covid19 Dashboard with forecasting
+# Covid19 Dashboard
 
 ### Covid19 Dashboard for India
 ![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
