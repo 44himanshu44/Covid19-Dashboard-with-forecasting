@@ -1,6 +1,10 @@
 # Covid19 Dashboard with forecasting
 
 ### Covid19 Dashboard for India
+![page_2]() <br>
+
+### Change in covid cases around the world
+![page_3]()
 
 <p align="center">
     <br>
