@@ -1,10 +1,10 @@
 # Covid19 Dashboard with forecasting
 
 ### Covid19 Dashboard for India
-![page_2]() <br>
+![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
 
 ### Change in covid cases around the world
-![page_3]()
+![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)
 
 <p align="center">
     <br>
