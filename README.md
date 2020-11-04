@@ -1,4 +1,4 @@
-# Covid19 Dashboard
+
 
 ### Covid19 Dashboard for India
 ![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">
-<p>A Text-to-Speech Transformer in TensorFlow 2</p>
+<p>Covid19 Dashboard with Forecasting</p>
 </h2>
 
 Implementation of a non-autoregressive Transformer based neural network for Text-to-Speech (TTS). <br>
