@@ -1,11 +1,3 @@
-
-
-### Covid19 Dashboard for India
-![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
-
-### Change in covid cases around the world
-![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)
-
 <p align="center">
     <br>
     <img src="https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/covid19.jpeg" width="400"/>
@@ -15,6 +7,15 @@
 <h2 align="center">
 <p>Covid19 Dashboard with Forecasting</p>
 </h2>
+
+
+
+### Covid19 Dashboard for India
+![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
+
+### Change in covid cases around the world
+![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)
+
 
 Implementation of a non-autoregressive Transformer based neural network for Text-to-Speech (TTS). <br>
 This repo is based on the following papers:
