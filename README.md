@@ -41,9 +41,11 @@ conda install -c conda-forge fbprophet.
 
 ```
 If you are facing any issues you can refer to this [link](https://facebook.github.io/prophet/docs/installation.html)
+<br>
 
 ## 📖NOTE
 You can use data of any time frame. Since this project was developed during early qurantine the data is not updated
+<br>
 
 ## Clone this repository and run index.py:
 ```python
