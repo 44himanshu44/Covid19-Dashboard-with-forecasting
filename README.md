@@ -47,9 +47,9 @@ If you are facing any issues you can refer to this [link](https://facebook.githu
 You can use data of any time frame. Since this project was developed during early qurantine the data is not updated
 <br>
 
-## Clone this repository and run index.py:
+## Clone this repository and run on command line:
 ```python
-C:\Users\Acer> python index.py
+E:\Jupyter\Projects\Project_covid19\test\final> python index.py
 ```
 
 
