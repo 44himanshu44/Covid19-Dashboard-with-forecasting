@@ -41,10 +41,9 @@ Make sure you install fbprophet through conda instead of pip
 conda install -c conda-forge fbprophet.
 
 ```
-If you are facing any issues you can refer to this [link](https://facebook.github.io/prophet/docs/installation.html)
+If you are facing any issues in installing fbprophet you can refer to this [link](https://facebook.github.io/prophet/docs/installation.html)
 <br>
-<br>
-Mapbox is a tool to create advance Maps 
+Mapbox is a tool to create advance Maps <br>
 Click the following link to know more or create your Mapbox access token [link](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
 
 ## 📖Dataset
