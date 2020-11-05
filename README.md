@@ -12,9 +12,18 @@
 
 ### Covid19 Dashboard for India
 ![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
+This page covers detail status of covid cases in India, along with the option to forecast cases for tomorrow , next week and next month
+* Confirmed, Deaths , Recovered statwise and India
+* Number of cases (with forecasting)
+* Daily cases (with forecasting)
+* Daily recovered
+* Daily deaths
+* Active cases vs Closed cases
+* Death rate vs Recoverey rate
 
 ### Change in covid cases around the world
 ![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)
+Here you can also the spread of covid cases throughout the world at different time frames.
 
 
 Implementation of a dashboard along with forecasting using facebook's fbprophet
