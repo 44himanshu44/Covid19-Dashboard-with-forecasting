@@ -12,7 +12,7 @@
 
 ### Covid19 Dashboard for India
 ![page_2](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_2.gif) <br>
-This page covers detail status of covid cases in India, along with the option to forecast cases for tomorrow , next week and next month
+It covers detailed status of covid cases in India, along with the option to forecast cases for tomorrow , next week and next month
 * Confirmed, Deaths , Recovered statwise and India
 * Number of cases (with forecasting)
 * Daily cases (with forecasting)
