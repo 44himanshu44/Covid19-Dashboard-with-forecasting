@@ -22,11 +22,9 @@ It covers detailed status of covid cases in India, along with the option to fore
 * Death rate vs Recovery rate
 
 ### Change in covid cases around the world
-![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)
+![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)<br>
 Here you can also the spread of covid cases throughout the world at different time frames.
-
-
-Implementation of a dashboard along with forecasting using facebook's fbprophet
+This dashboard is using facebook's fbprophet model for forecasting
 
 
 
