@@ -43,6 +43,7 @@ conda install -c conda-forge fbprophet.
 ```
 If you are facing any issues you can refer to this [link](https://facebook.github.io/prophet/docs/installation.html)
 <br>
+<br>
 Mapbox is a tool to create advance Maps 
 Click the following link to know more or create your Mapbox access token [link](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
 
