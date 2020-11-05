@@ -20,6 +20,7 @@ It covers detailed status of covid cases in India, along with the option to fore
 * Daily deaths
 * Active cases vs Closed cases
 * Death rate vs Recovery rate
+<br>
 
 ### Change in covid cases around the world
 ![page_3](https://github.com/44himanshu44/Covid19-Dashboard-with-forecasting/blob/master/docs/page_3.gif)<br>
